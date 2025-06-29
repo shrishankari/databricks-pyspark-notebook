@@ -15,4 +15,18 @@ This project demonstrates a simple data transformation flow using PySpark on Azu
 - Delta Lake
 - Azure Data Lake Gen2
 
+# 🔬 Databricks PySpark Notebook Demo
+
+Demonstrates data transformation and aggregation using PySpark on Azure Databricks.
+
+## 🗂 Repo Structure
+- `/notebooks/`: Sample notebook (`sample_transformation.ipynb`)
+- `/data/`: Input CSV with dummy data
+- `README.md`: Description and instructions
+
+## 🧩 Use Case
+- Read raw CSV from ADLS
+- Filter and aggregate with PySpark
+- Write output to Delta tables for downstream analytics
+
 ## 🔗 File Structure
